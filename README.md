@@ -1,4 +1,4 @@
 # DASH_BOARD
 <ul>
-  <li>Live Preview: http//:dashboardlp.netlify.app</li>
+  <li>Live Preview: https//:dashboardlp.netlify.app</li>
 </ul>
